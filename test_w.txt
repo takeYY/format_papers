@@ -1,0 +1,4 @@
+1. This program is to format the paper in English.
+	- ==英語の論文をフォーマットするプログラムです。==
+2. If you want to translate English into Japanese and format, this program may be used for you.
+	- ==英語を日本語に翻訳してフォーマットしたい場合は、このプログラムを使うと良いでしょう。==
