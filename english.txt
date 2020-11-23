@@ -1,2 +1,0 @@
-This program is to format the paper in English.
-If you want to translate English into Japanese and format, this program may be used for you.
