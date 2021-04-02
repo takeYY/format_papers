@@ -18,7 +18,7 @@ if len(eng_s) == len(jpn_s):
   for i in range(len(eng_s)):
     s = s + "{}. {}\n\t- =={}==\n".format((i+1),eng_s[i],jpn_s[i])
 else:
-  print("英語と日本語の行数が正しくありません！")
+  print('英語と日本語の行数が正しくありません！')
 
 # ファイルへの書き込み
 with open(path_w, mode='w') as f:
